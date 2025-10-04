@@ -1,22 +1,106 @@
 [
-  {
-    "name": "Laban X Jahrah",
-    "coords": "29.352251, 47.665029"
-  },
-  {
-    "name": "Example",
-    "coords": "29.3382,47.6593"
-  },
-  {
-    "name": "Example",
-    "coords": "29.3369,47.6575"
-  },
-  {
-    "name": "Example",
-    "coords": "29.3391,47.6602"
-  },
-  {
-    "name": "Example",
-    "coords": "29.3357,47.6564"
-  },
+    {
+        "name": "Laban X Jahrah",
+        "coords": "29.352251, 47.665029"
+    },
+    {
+        "name": "Fidous Park McDonald's",
+        "coords": "29.277311, 47.881757"
+    },
+    {
+        "name": "Firduos McDonald's 24",
+        "coords": "29.288002, 47.880294"
+    },
+    {
+        "name": "McDonald's Khaitan",
+        "coords": "29.292759, 47.971577"
+    },
+    {
+        "name": "Farwaniya McDonald's",
+        "coords": "29.289274, 47.961357"
+    },
+    {
+        "name": "Ardiya DH Kitchen",
+        "coords": "29.294944, 47.915359"
+    },
+    {
+        "name": "Bartone Rehab",
+        "coords": "29.285141, 47.941251"
+    },
+    {
+        "name": "Mishmash Ardiya",
+        "coords": "29.29318, 47.908132"
+    },
+    {
+        "name": "Haba Bukhari Ardiya",
+        "coords": "29.295027, 47.907555"
+    },
+    {
+        "name": "Talabat Mart Ardiya",
+        "coords": "29.297098, 47.914158"
+    },
+    {
+        "name": "Ardiya Peek Dajeej",
+        "coords": "29.295503, 47.907628"
+    },
+    {
+        "name": "Ardiya Ananas",
+        "coords": "29.293619, 47.912236"
+    },
+    {
+        "name": "Good Day farwaniya",
+        "coords": "29.290252, 47.963440"
+    },
+    {
+        "name": "CHKN Ardiya",
+        "coords": "29.295693, 47.908229"
+    },
+    {
+        "name": "Chowking Farwaniya",
+        "coords": "29.276096, 47.963642"
+    },
+    {
+        "name": "Mismash Khaitan",
+        "coords": "29.286639, 47.967528"
+    },
+    {
+        "name": "Naif chicken Rehab",
+        "coords": "29.285800, 47.941680"
+    },
+    {
+        "name": "Himalian house Farwaniya",
+        "coords": "29.278432, 47.963431"
+    },
+    {
+        "name": "Nino kitchen park Ardiya",
+        "coords": "29.295861, 47.908444"
+    },
+    {
+        "name": "BBT",
+        "coords": "29.292279, 47.923326"
+    },
+    {
+        "name": "Shako Mako Juice",
+        "coords": "29.295582, 47.913833"
+    },
+    {
+        "name": "OPT Coffee",
+        "coords": "29.293596,47.914774"
+    },
+    {
+        "name": "Elevation Burger, Ardhiya",
+        "coords": "29.294519, 47.909146"
+    },
+    {
+        "name": "Woop",
+        "coords": "29.295200, 47.909851"
+    },
+    {
+        "name": "Ingest",
+        "coords": "29.294979, 47.909552"
+    },
+    {
+        "name": "Wendy's, Ardhiya - Farwaniya",
+        "coords": "29.294384, 47.909311"
+    }
 ]
